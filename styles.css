@@ -1,0 +1,38 @@
+    @import url('https://fonts.googleapis.com/css?family=Wendy+One');
+    
+    body{
+        background-color:#fee50c;
+    }
+    
+    #main{
+        font-family: 'Wendy One',cursive;
+        height:400px;
+        position:relative;
+        text-align:center;
+    }
+    #points{
+        color:black;
+        position:relative;
+        top:148px;
+        text-align:center;
+    }
+    .input{
+        top:75px;
+        left:530px;
+        position:relative;
+        font-size:1.3em;
+        background-color:transparent;
+        border:none;
+        outline:none;
+        font-weight:bold;
+        color:black;
+        cursor:pointer;
+    }
+    header{
+        text-align:center;
+        font-size:3em;
+    }
+    
+    #play{
+        
+    }
